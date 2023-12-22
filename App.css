@@ -1,0 +1,33 @@
+
+.App{
+  text-align: center;
+}
+
+input{
+  border: 3px solid #f53900;
+  border-radius: 4px;
+  width: 20%;
+  margin: 8px 0;
+  padding: 6px 10px;
+}
+
+button{
+  padding: 6px 10px;
+  width:10%;
+  text-decoration: none;
+
+}
+.list button{
+  
+  border-radius: 6px;
+  padding:6px;
+  background-color: aliceblue;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin:4px 2px; 
+  width:30px;
+  height: 30px;
+  font-size: 16px;
+  color:black;
+}
