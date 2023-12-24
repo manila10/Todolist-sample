@@ -29,7 +29,7 @@ function App() {
           {todoList.map((task)=>{
               return(
               <div>
-              <h1>{task}</h1>
+              <h3>{task}</h3>
               <button onClick={() => deleteTask(task)}>
                 X
               </button>
